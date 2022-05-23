@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**MUmarBaig/MUmarBaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Web Developer from Bahawalpur, Pakistan.
 
-Here are some ideas to get you started:
+💻 - Software Engineer at White Wings Technelogies — April 2021 to Present
+💻 - Software Engineer at SmartCoders — July 2019 to April 2021
+🎓 - BS(CS) from PMAS-UAAR, Rawalpindi — August 2012 to July 2016
+💻 - Fullstack Developer Intern at ISolExperts — March 2018 to November 2018
+😎 - Level 1 on Fiverr — March 2015
+🧭 - Got first paid freelance project — 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 - I'm currently working on paygram — A platform that sends money from one country to other.
+💱 - I created https://oastyagency.com — An app for client to display services offering and ordering on 
+👷‍ - I worked on umarelectronice.pk, oastyagency.com,doctors-365.de and multiple others.
