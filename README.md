@@ -11,6 +11,6 @@ I'm a Fullstack Web Developer from Bahawalpur, Pakistan.
 <br/>
 🔭 - I'm currently working on paygram — A platform that sends money from one country to other.<br/>
 💱 - I created https://oastyagency.com — An app for client to display services offering and ordering on website.<br/> 
-👷‍ - I worked on https:umarelectronice.pk, oastyagency.com,doctors-365.de and multiple others.<br/>
+👷‍ - I worked on https://umarelectronice.pk, oastyagency.com,doctors-365.de and multiple others.<br/>
 <br/>
 📫 - How to reach me: umarbaig333@gmail.com or https://www.linkedin.com/in/umar-baig/
