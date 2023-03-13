@@ -2,8 +2,8 @@ Hi there 👋
 
 I'm a Fullstack Web Developer from Bahawalpur, Pakistan.
 
-💻 - Software Engineer at White Wings Technelogies — April 2021 to Present<br/>
-💻 - Software Engineer at SmartCoders — July 2019 to April 2021<br/>
+💻 - Software Engineer at White Wings Technelogies — April 2022 to Present<br/>
+💻 - Software Engineer at SmartCoders — July 2019 to April 2022<br/>
 🎓 - BS(CS) from PMAS-UAAR, Rawalpindi — August 2012 to July 2016<br/>
 💻 - Fullstack Developer Intern at ISolExperts — March 2018 to November 2018<br/>
 💻 - Software Engineer at White Wings Technelogies — March 2022 <br/>
